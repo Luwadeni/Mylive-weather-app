@@ -43,6 +43,7 @@ a:hover {
 .link {
     text-align: center;
     display: block;
+    color: #579dbd;
 }
 .city-favorites {
   margin-bottom: 20px;
